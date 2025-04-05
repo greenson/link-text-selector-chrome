@@ -12,7 +12,7 @@ LinkTextSelector is a Chrome extension that allows users to easily select and co
 
 https://chromewebstore.google.com/detail/akcoifpkcmnhijenpflgfkllocfdnjll?utm_source=item-share-cb 
   
-## Local Development  
+## Local Dev Setup
 1. Clone or download this repository to your local machine.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** in the top-right corner.
@@ -31,7 +31,7 @@ To contribute or modify the extension:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/LinkTextSelector.git
+    git clone https://github.com/greenson/link-text-selector-chrome.git
     ```
 2. Make your changes and test them by reloading the extension in Chrome.
 
@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, feel free to reach out at [guangsen.yan@outlook.com].
+For questions or feedback, feel free to reach out at guangsen.yan@outlook.com.
