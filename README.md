@@ -4,7 +4,7 @@ LinkTextSelector is a Chrome extension that allows users to easily select and co
 
 ## Features
 
-- Select and copy hyperlink text with a single click.
+- Disable a hyperlink for 5 seconds on hover + Shift to easily select text.
 - Lightweight and easy to use.
 - Works seamlessly on most web pages.
 
@@ -21,9 +21,7 @@ https://chromewebstore.google.com/detail/akcoifpkcmnhijenpflgfkllocfdnjll?utm_so
 
 ## Usage
 
-1. Click on the LinkTextSelector icon in the Chrome toolbar.
-2. Hover over any hyperlink on a web page.
-3. Click to copy the text of the link to your clipboard.
+Hover your cursor over any hyperlink and press Shift to temporarily disable it for 5 seconds. 
 
 ## Development
 
